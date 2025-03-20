@@ -1,0 +1,4 @@
+如有變動網址需去src/App.tsx改const backendUrl = 'https://bullishmacddivergence-b4738fb587c2.herokuapp.com/';
+
+npx create-react-app BullishMACDdivergence-frontend這是一個直接生成react專案的指令(直接擁有一些初始資料夾和檔案)
+npm install可下載package.json內的所有依賴
